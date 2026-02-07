@@ -12,7 +12,7 @@ clear separation of responsibilities
 basic Data Engineering best practices
 
 # 🏗 Project Structure
-.
+
 ├── src/
 
 │   ├── extract.py     # Extracts data from HH.ru API
