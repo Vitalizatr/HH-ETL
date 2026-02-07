@@ -42,7 +42,7 @@ Removes incomplete or invalid records
 
 ## 3. Load
 
-Saves the processed data into a CSV file (data.csv)
+Saves the processed data into a CSV file (data.csv) or In DataBase(SQL)
 
 Ready for analytics, dashboards, or further processing
 
@@ -55,6 +55,8 @@ requests — API communication
 pandas — data transformation
 
 csv — data export
+
+sqlAlchimia - sql export
 
 # ▶️ How to Run
 
