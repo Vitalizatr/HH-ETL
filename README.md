@@ -14,9 +14,13 @@ basic Data Engineering best practices
 # 🏗 Project Structure
 .
 ├── src/
+
 │   ├── extract.py     # Extracts data from HH.ru API
+
 │   └── load.py        # Saves processed data to CSV
+
 ├── data.csv           # Example output file
+
 └── README.md
 
 🔄 ETL Flow
